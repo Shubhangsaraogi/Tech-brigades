@@ -1,0 +1,185 @@
+body{
+    background-color:#F5F5F5; 
+    overflow-x: hidden;
+}
+.salarybox{
+    position: absolute;
+width: 1086px;
+height: 661px;
+left: 258px;
+top: 164px;
+
+background: #FFFFFF;
+box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.25);
+border-radius: 5px;
+}
+.tribox1{
+    position: absolute;
+width: 196px;
+height: 196px;
+left: 0%;
+top: 0%;
+}
+.tribox1{
+    position: absolute;
+width: 196px;
+height: 196px;
+left: 82%;
+top: 70%;
+transform: rotate(180deg);
+}
+.sdiv1{
+    position: absolute;
+left: 38%;
+top: 5%;
+bottom: 75.97%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.evdiv2{
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+    
+    
+    color: #898989;
+    
+    }
+    .ev21{
+        position: absolute;
+    left: 10%;
+    top: 25.04%;
+    bottom: 80.47%;
+    
+    }
+    .ev22{
+        position: absolute;
+        left: 10%;
+        top: 35.04%;
+        bottom: 80.47%;
+    }
+    .ev23{
+        position: absolute;
+        left: 10%;
+    top: 45.04%;
+        bottom: 80.47%;
+    }
+    .ev24{
+        position: absolute;
+        left: 10%;
+        top: 55.04%;
+        bottom: 80.47%;
+    }
+    .ev25{
+        position: absolute;
+        left: 10%;
+    top: 65.04%;
+        bottom: 80.47%;
+    }
+
+    .evdiv3{
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+    
+    
+    color: #026A8C;
+    
+    }
+    .ev31{
+        position: absolute;
+        
+        right: 67.2%;
+        left: 35%;
+        top: 25.04%;
+        bottom: 80.47%;
+    }
+    .ev32{
+        position: absolute;
+        left: 35%;
+        top: 35.04%;
+        bottom: 80.47%;
+    }
+    .ev33{
+        position: absolute;
+        left: 35%;
+        top: 45.04%;
+        bottom: 80.47%;
+    }
+    .ev34{
+        position: absolute;
+        left: 35%;
+        top: 55.04%;
+        bottom: 80.47%;
+    }
+    .ev35{
+            position: absolute;
+            left: 35%;
+        top: 65.04%;
+            bottom: 80.47%;
+    }
+    .sdiv2{
+        position: absolute;
+width: 201px;
+height: 201px;
+left: 60%;
+top: 20%;
+
+background: url(Rectangle816.png);
+border-radius: 5.628px;
+    }
+.sdiv3{
+    position: absolute;
+left: 62.02%;
+
+top: 51.92%;
+bottom: 46.13%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.sdiv4{
+    position: absolute;
+width: 435px;
+height: 64px;
+left: 50%;
+top: 60%;
+
+background: rgba(131, 159, 192, 0.1);
+border-radius: 5px;
+}
+.sdiv5{
+    position: absolute;
+width: 435px;
+height: 64px;
+left: 50%;
+top: 75%;
+
+background: rgba(131, 159, 192, 0.1);
+border-radius: 5px;
+}

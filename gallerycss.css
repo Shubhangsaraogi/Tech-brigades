@@ -1,0 +1,595 @@
+.nav{
+    position: absolute;
+    width: 1535px;
+    height: 100px;
+    left: 0px;
+    top: 0px;
+    
+    background: #002F49;
+}
+.logo{
+    position: absolute;
+width: 50%;
+height: 50%;
+left: 14px;
+top: 7px;
+
+background: url(1_1-removebg-preview.png);
+}
+
+.h1{
+    
+position: absolute;
+left: 42.13%;
+top: 50%;
+
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 17px;
+text-decoration: none;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+
+.home{
+    position: absolute;
+    left: 44.13%;
+}
+.profile{
+    
+position: absolute;
+left: 49.13%;
+}
+.assess{
+    position: absolute;
+    left: 58.13%;
+}
+.salary{
+    position: absolute;
+    left: 66.63%;
+}
+.key{
+    position: absolute;
+    left: 76.63%;
+}
+.hp{
+    position: absolute;
+    left: 87.13%;
+}
+.bar{
+
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 95.5%;
+    top: 43%;   
+}
+.ad{
+    position: absolute;
+width: 14px;
+height: 14px;
+left: 83%;
+top: 52%;
+
+}
+.drop{
+    display:none;
+    position: absolute;
+width: 134px;
+height: 112px;
+left: 0%;
+top: 50px;
+z-index: 1;
+
+background: #F2F5FB;
+}
+.key:hover .drop{
+    display: block;
+}
+.gallery{
+    position: absolute;
+left: 10%;
+right: 17.06%;
+top: 25%;
+bottom: 94.55%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+
+color: #002F49;
+}
+.events{
+    position: absolute;
+left: 10%;
+right: 17.2%;
+top: 55%;
+bottom: 93.01%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+
+color: #002F49;
+
+}
+
+body{
+    background-color:#F5F5F5; 
+    overflow-x: hidden;
+}
+
+.b1{
+    position: absolute;
+width: 195px;
+height: 30px;
+left: 65px;
+top: 131px;
+
+background: rgba(2, 106, 140, 0.15);
+border-radius: 2px;
+}
+
+.b2{
+    position: absolute;
+left: 5.42%;
+
+top: 20.04%;
+bottom: 92.09%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+
+color: #898989;
+}
+
+.b3{
+    position: absolute;
+left: 65.83%;
+right: 84.06%;
+top: 20.04%;
+bottom: 92.09%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+
+color: #002F49;
+}
+.box{
+    position: absolute;
+    width: 1356px;
+    height: 463px;
+    left: 65px;
+    top: 229px;
+    
+    background: #FFFFFF;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+
+}
+.b4{
+    position: absolute;
+width: 195px;
+height: 209px;
+left: 3%;
+top: 7%;
+
+filter: drop-shadow(2px 2px 10px rgba(0, 0, 0, 0.25));
+}
+.b41{
+    position: absolute;
+width: 197px;
+height: 35px;
+left: 3.5%;
+top: 54%;
+
+background: #002F49;
+border-radius: 2px;
+}
+.b42{
+    position: absolute;
+left: 40.03%;
+right: 84.26%;
+top: 25.23%;
+bottom: 73.9%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.b5{
+    position: absolute;
+width: 200px;
+height: 213px;
+left: 30%;
+top: 8%;
+
+
+filter: drop-shadow(2px 2px 10px rgba(0, 0, 0, 0.25));
+}
+.b51{
+    position: absolute;
+    left: 30%;
+top: 54%;
+}
+.b6{
+    position: absolute;
+width: 195px;
+height: 213px;
+left: 58%;
+top: 8%;
+
+
+filter: drop-shadow(2px 2px 10px rgba(0, 0, 0, 0.25));
+}
+.b61{
+    position: absolute;
+    left: 58%;
+top: 54%;
+}
+.b7{
+    position: absolute;
+width: 195px;
+height: 213px;
+left: 82%;
+top: 8%;
+
+border-radius: 5.15107px 5.15107px 0px 0px;
+filter: drop-shadow(2px 2px 10px rgba(0, 0, 0, 0.25));
+}
+.b71{
+    position: absolute;
+    left: 82%;
+top: 54%;
+}
+.footer{
+    position: absolute;
+width: 1520px;
+height: 100px;
+left: 0%;
+top: 1846px;
+
+background: #014870;
+}
+
+.cr{
+    position: absolute;
+left: 3.7%;
+right: 77.18%;
+top: 30%;
+bottom: 1.08%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+
+color: white;
+
+}
+
+.connect{
+    position: absolute;
+left: 37.04%;
+right: 52.98%;
+top: 40%;
+bottom: 1.54%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+
+color: #FFFFFF;
+
+}
+
+.fb{
+    position: absolute;
+width: 24px;
+height: 24px;
+left: 727px;
+top: 40%;
+
+}
+.li{
+    position: absolute;
+width: 24px;
+height: 24px;
+left: 768px;
+top: 40%;
+
+background: url(linkedin1.png);
+}
+
+.tw{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 809px;
+    top: 40%;
+    
+    background: url(twitter1.png);
+}
+
+.yt{
+    position: absolute;
+width: 24px;
+height: 24px;
+left: 850px;
+top: 40%;
+
+background: url(youtube1.png);
+}
+
+.policy{
+    position: absolute;
+left: 75%;
+top: 40%;
+bottom: 1.54%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+
+color: #FFFFFF;
+}
+.dropbtn {
+    background: #002F49;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    height: 85px;
+  }
+  
+  /* The container <div> - needed to position the dropdown content */
+  .dropdown {
+    position: relative;
+    display: inline-block;
+    top:55%;
+    left:83%;
+
+  }
+  
+  /* Dropdown Content (Hidden by Default) */
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    top:100%;
+    left:80%;
+  }
+  
+  /* Links inside the dropdown */
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  /* Change color of dropdown links on hover */
+  .dropdown-content a:hover {background-color: #f1f1f1}
+  
+  /* Show the dropdown menu on hover */
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  /* .click-zoom input[type=checkbox] {
+    display: none
+  }
+  
+  .click-zoom img {
+    margin: 100px;
+    transition: transform 0.25s ease;
+    cursor: zoom-in
+  }
+  
+  .click-zoom input[type=checkbox]:checked~img {
+    transform: scale(2);
+    cursor: zoom-out
+  } */
+  .pic{
+    position: absolute;
+    width: 80%;
+    height: 70%;
+    left: 250px;
+    top: 750px;
+    /* filter: drop-shadow(6.89952px 6.89952px 34.4976px rgba(0, 0, 0, 0.25)); */
+    border:none;
+  } 
+  #image{
+    width: 70%;
+    height: 80%;
+  }
+.popup-image{
+      position: fixed;
+      top:30%; left:0%;
+      background:rgba(0,0,0,.9);
+      height: 50%;
+      width:100%;
+      z-index:100;
+      display: none;
+  }
+   .pic span{
+      position: absolute;
+      top:-10px;
+      right:200px;
+      font-size:40px;
+      font-weight: bolder;
+      color:black;
+      cursor: pointer;
+      z-index:100;
+  }
+   .popup-image img{
+      position: absolute;
+      top:50%;
+      left:50%;
+      transform: translate(-50%,-50%);
+      border:5px solid white;
+      border-radius:5px;
+      width:300px;
+      object-fit: cover;
+  }
+  .key{
+    position: absolute;
+width: 134px;
+height: 200px;
+left: 76%;
+top: 40%;
+border-radius: 10px;
+}
+.keyname{
+    position: absolute;
+    left: 15%;
+    top: 6%;
+    
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    text-decoration: none;
+    /* identical to box height */
+    
+    
+    color: #FFFFFF;
+}
+.keybox{
+    display: none;
+    position: absolute;
+width: 134px;
+height: 112px;
+left: 0%;
+top: 20%;
+z-index: 1;
+background: white;
+}
+.keyglr{
+    position: absolute;
+    display: block;
+left: 20%;
+top: 20%;
+bottom: 94.55%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 17px;
+text-decoration: none;
+/* identical to box height */
+
+
+color: #002F49;
+}
+.keyevt{
+    position: absolute;
+left: 20%;
+right: 17.2%;
+top: 50%;
+bottom: 93.01%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+text-decoration: none;
+
+color: #002F49;
+
+}
+.key:hover .keybox{
+    display: block;
+}
+/* (A) LIGHTBOX BACKGROUND */
+#lightbox {
+    /* (A1) COVERS FULLSCREEN */
+    position: absolute; z-index: 999;
+    top: 20%; left: 30%;
+    right: 40%; bottom: 0;
+    width: 40vw; height: 40vh;
+   
+    /* (A2) BACKGROUND */
+    /* background: rgba(0, 0, 0, 0.5); */
+   
+    /* (A3) CENTER IMAGE ON SCREEN */
+    display: flex;
+    align-items: center;
+    align-items: center;
+   
+    /* (A4) HIDDEN BY DEFAULT */
+    visibility: hidden;
+    opacity: 0;
+   
+    /* (A5) SHOW/HIDE ANIMATION */
+    transition: opacity ease 0.4s;
+  }
+   
+  /* (A6) TOGGLE VISIBILITY */
+  #lightbox.show {
+    visibility: visible;
+    opacity: 1;
+  }
+   
+  /* (B) LIGHTBOX IMAGE */
+  #lightbox img {
+    /* (B1) DIMENSIONS */
+    width: 100%;
+    height: auto;
+   
+    /* (B2) IMAGE FIT */
+    /* contain | cover | fill | scale-down */
+    object-fit: cover;
+  }
+   
+  /* (C) LIGHTBOX IMAGE - FULLSCREEN ALTERNATIVE */
+  #lightbox img {
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+  }

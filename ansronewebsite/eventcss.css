@@ -1,0 +1,210 @@
+body{
+    background-color:#F5F5F5; 
+    overflow-x: hidden;
+}
+.b1{
+    position: absolute;
+width: 195px;
+height: 30px;
+left: 65px;
+top: 131px;
+
+background: rgba(2, 106, 140, 0.15);
+border-radius: 2px;
+}
+
+.b2{
+    position: absolute;
+left: 5.42%;
+
+top: 20.04%;
+bottom: 92.09%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+
+color: #898989;
+}
+
+.b3{
+    position: absolute;
+left: 65.83%;
+right: 84.06%;
+top: 20.04%;
+bottom: 92.09%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+
+color: #002F49;
+}
+.eventbox{
+    position: absolute;
+width: 1356px;
+height: 663px;
+left: 65px;
+top: 229px;
+
+background: #FFFFFF;
+box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.25);
+border-radius: 5px;
+}
+.evdiv1{
+    position: absolute;
+left: 43.32%;
+top: 5%;
+bottom: 85.05%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+
+
+color: #000000;
+}
+.evdiv2{
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #898989;
+
+}
+.ev21{
+    position: absolute;
+left: 4.67%;
+top: 18.04%;
+bottom: 80.47%;
+
+}
+.ev22{
+    position: absolute;
+    left: 4.67%;
+    top: 30.04%;
+    bottom: 80.47%;
+}
+.ev23{
+    position: absolute;
+    left: 4.67%;
+    top: 42.04%;
+    bottom: 80.47%;
+}
+.ev24{
+    position: absolute;
+    left: 4.67%;
+    top: 54.04%;
+    bottom: 80.47%;
+}
+.ev25{
+    position: absolute;
+    left: 4.67%;
+    top: 66.04%;
+    bottom: 80.47%;
+}
+.ev26{
+    position: absolute;
+    left: 4.67%;
+    top: 78.04%;
+    bottom: 80.47%;
+}
+.ev27{
+    position: absolute;
+    left: 4.67%;
+    top: 90.04%;
+    bottom: 80.47%;
+}
+.evdiv3{
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #026A8C;
+
+}
+.ev31{
+    position: absolute;
+    left: 22.42%;
+    right: 67.2%;
+    top: 18.04%;
+    bottom: 80.47%;
+}
+.ev32{
+    position: absolute;
+    left: 22.42%;
+  
+    top: 30.04%;
+    bottom: 80.47%;
+}
+.ev33{
+    position: absolute;
+    left: 22.42%;
+    right: 67.2%;
+    top: 42.04%;
+    bottom: 80.47%;
+}
+.ev34{
+    position: absolute;
+    left: 22.42%;
+    right: 67.2%;
+    top: 54.04%;
+    bottom: 80.47%;
+}
+.ev35{
+        position: absolute;
+        left: 22.42%;
+   
+        top: 66.04%;
+        bottom: 80.47%;
+}
+.ev36{
+    position: absolute;
+    left: 22.42%;
+
+    top: 78.04%;
+    bottom: 80.47%;
+}
+.ev37{
+    position: absolute;
+    left: 22.42%;
+    right: 67.2%;
+    top: 90.04%;
+    bottom: 80.47%;
+}
+.evimg{
+    position: absolute;
+width: 422px;
+height: 410.54px;
+left: 903px;
+top: 20%;
+}
+.footerev{
+    position: absolute;
+    width: 1512px;
+    height: 100px;
+    left: 1%;
+    top: 2000px;
+    background: #014870;
+}
